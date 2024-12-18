@@ -1,6 +1,6 @@
-name: "Jenkins-Action"
+name: "Jenkins-Github-Action"
 description: "Start Jenkins jobs and report back url and status of build"
-author: "Josh Levy-Kramer"
+author: "Hing Chiang"
 inputs:
   url:
     description: "Jenkins URL including http/https protocol"
